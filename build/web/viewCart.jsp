@@ -32,7 +32,7 @@
                     <th>Action</th>
                 </tr>
             </thead>
-            <form action="RemoveBook">
+            <form action="Remove item">
                 <tbody>
                     <%
                         int count = 0;
@@ -56,7 +56,7 @@
                     <tr>
                         <td colspan="3">
 
-                            <a href="bookStore.html">Add more to cart</a>
+                            <a href="shopping.html">Add more to cart</a>
 
                         </td>
                         <td>
